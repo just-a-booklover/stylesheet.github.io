@@ -1,0 +1,56 @@
+       body {
+            font-family: "Crimson Text", Garamond, "Times New Roman", serif;
+            background-color: rgb(180, 205, 220);
+            font-size: 35px;
+        }
+        a:link {
+            color:black;
+        }
+        a:visited {
+            color: rgb(0, 0, 255);
+        }
+        a:hover {
+            background-color: rgb(180, 205, 220);
+        }
+        #titlediv {
+            border-bottom: 1px solid rgb(0, 0, 0);
+            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+            margin-right: -20px;
+            margin-left: -20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            font-size:39px;
+        }
+        #megadiv {
+            position: absolute;
+            padding-left: 7px;
+            padding-right: 7px;
+            margin-top: -29px;
+        }
+        #title {
+            text-align: center;
+        }
+        #vicino {
+            margin-top: -15px;
+        }
+        #psmall {
+            font-size: 16px;
+        }
+        #div2 {
+            width: 28%;
+            float: right;
+            border: 1px solid rgb(0, 0, 0);
+            padding-left: 7px;
+            padding-right: 7px;
+            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+            font-size: 30px;
+        }
+        #piccolo {
+            border-top: 1px solid rgb(0, 0, 0);
+            background-color: rgb(173, 255, 110);
+            margin-right: -20px;
+            margin-left: -20px;
+            text-align: right;
+            padding-bottom: 20px;
+            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+        }

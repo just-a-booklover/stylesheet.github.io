@@ -60,3 +60,18 @@
 #img2 {
        float: right;
 }
+.rubrica {
+            width: 67%;
+            border: 1px solid black;
+            height: 100px;
+            overflow: auto;
+            background-color: rgb(202, 255, 182);
+        }
+        h4 {
+            margin-top: 1px;
+            background-color: rgb(170, 230, 170);
+            position: relative;
+            width: 343px;
+            text-align: center;
+            border: 1px solid black;
+        }

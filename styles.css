@@ -54,13 +54,13 @@
             padding-bottom: 20px;
             background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
         }
-#img {
-       float: left;
-}
-#img2 {
-       float: right;
-}
-.rubrica {
+       #img {
+            float: left;
+       }
+       #img2 {
+            float: right;
+       }
+       .rubrica {
             width: 67%;
             border: 1px solid black;
             height: 100px;

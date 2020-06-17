@@ -1,20 +1,22 @@
        body {
             font-family: "Crimson Text", Garamond, "Times New Roman", serif;
-            background-color: rgb(180, 205, 220);
+            background-color: rgb(250, 243, 221);
             font-size: 35px;
+            color: rgb(94, 100, 114);
         }
         a:link {
-            color:black;
+            color: rgb(94, 100, 114);
         }
         a:visited {
-            color: rgb(0, 0, 255);
+            color: rgb(174, 217, 224);
         }
         a:hover {
-            background-color: rgb(180, 205, 220);
+            background-color: rgb(250, 243, 221);
         }
         #titlediv {
-            border-bottom: 1px solid rgb(0, 0, 0);
-            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+            border-bottom: 1px solid rgb(94, 100, 114);
+            background-color: rgb(255, 166, 158);
+            background-image: url(https://www.pinterest.it/pin/836332593286466479/);
             margin-right: -20px;
             margin-left: -20px;
             padding-top: 10px;
@@ -39,20 +41,21 @@
         #div2 {
             width: 28%;
             float: right;
-            border: 1px solid rgb(0, 0, 0);
+            border: 1px solid rgb(94, 100, 114);
+            background-color: rgb(255, 166, 158);
             padding-left: 7px;
             padding-right: 7px;
-            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+            background-image: url(https://www.pinterest.it/pin/836332593286466479/);
             font-size: 30px;
         }
         #piccolo {
-            border-top: 1px solid rgb(0, 0, 0);
-            background-color: rgb(173, 255, 110);
+            border-top: 1px solid rgb(94, 100, 114);
+            background-color: rgb(255, 166, 158);
             margin-right: -20px;
             margin-left: -20px;
             text-align: right;
             padding-bottom: 20px;
-            background-image: url(https://i.pinimg.com/236x/15/cd/8b/15cd8bccc29727a6b371b3d5ddac7d01.jpg);
+            background-image: url(https://www.pinterest.it/pin/836332593286466479/);
         }
        #img {
             float: left;
@@ -62,16 +65,16 @@
        }
        .rubrica {
             width: 67%;
-            border: 1px solid black;
+            border: 1px solid rgb(94, 100, 114);
             height: 100px;
             overflow: auto;
-            background-color: rgb(202, 255, 182);
+            background-color: rgb(174, 217, 224);
         }
         h4 {
             margin-top: 1px;
-            background-color: rgb(170, 230, 170);
+            background-color: rgb(184, 242, 230);
             position: relative;
             width: 343px;
             text-align: center;
-            border: 1px solid black;
+            border: 1px solid rgb(94, 100, 114);
         }

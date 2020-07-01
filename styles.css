@@ -1,4 +1,4 @@
-       body {
+      body {
             font-family: "Crimson Text", Garamond, "Times New Roman", serif;
             background-color: rgb(250, 243, 221);
             font-size: 35px;
@@ -16,7 +16,7 @@
         #titlediv {
             border-bottom: 1px solid rgb(94, 100, 114);
             background-color: rgb(255, 166, 158);
-            background-image: url(https://www.pinterest.pt/pin/21181060735008989/);
+            background-image: url(https://live.staticflickr.com/65535/50064617341_a280817b91_w.jpg);
             margin-right: -20px;
             margin-left: -20px;
             padding-top: 10px;
@@ -45,7 +45,7 @@
             background-color: rgb(255, 166, 158);
             padding-left: 7px;
             padding-right: 7px;
-            background-image: url(https://www.pinterest.pt/pin/21181060735008989/);
+            background-image: url(https://live.staticflickr.com/65535/50064617341_a280817b91_w.jpg);
             font-size: 30px;
         }
         #piccolo {
@@ -55,7 +55,7 @@
             margin-left: -20px;
             text-align: right;
             padding-bottom: 20px;
-            background-image: url(https://www.pinterest.pt/pin/21181060735008989/);
+            background-image: url(https://live.staticflickr.com/65535/50064617341_a280817b91_w.jpg);
         }
        #img {
             float: left;

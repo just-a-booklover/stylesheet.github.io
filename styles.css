@@ -69,6 +69,7 @@
             height: 270px;
             overflow: auto;
             background-color: rgb(174, 217, 224);
+            margin-bottom: 20px;
         }
         h4 {
             background-color: rgb(184, 242, 230);

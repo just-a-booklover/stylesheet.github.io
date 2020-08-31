@@ -67,7 +67,7 @@
        }
        .rubrica {
             width: 67%;
-            border: 1px solid rgb(94, 100, 114);
+            border: 3px solid rgb(94, 100, 114);
             height: 270px;
             overflow: auto;
             background-color: rgb(174, 217, 224);
@@ -79,5 +79,5 @@
             border: 1px solid rgb(94, 100, 114);
             margin: 5px;
             position: relative;
-            width: 99%;
+            width: 98%;
         }
